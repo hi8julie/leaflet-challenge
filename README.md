@@ -2,6 +2,7 @@
 The instructions for this activity are broken into two parts:
 
 1. Part 1: Create the Earthquake Visualization
+![2-BasicMap](https://user-images.githubusercontent.com/118202453/230506340-27008991-4b96-4d57-9f50-749f2a8fd0c3.png)
 
 2. Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
@@ -11,7 +12,13 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 1. Get your dataset. To do so, follow these steps:
 
     - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
+    
+    ![3-Data](https://user-images.githubusercontent.com/118202453/230506384-e1be4cdf-9a92-4b99-b14a-21c7013d7d76.png)
+
     - When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
+    
+    ![4-JSON](https://user-images.githubusercontent.com/118202453/230506474-e106babf-1ab9-4524-a44c-e80cda7d78a0.png)
+
 
 2. Import and visualize the data by doing the following:
 
@@ -31,6 +38,9 @@ Plot a second dataset on your map to illustrate the relationship between tectoni
 This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.
 
 The following image is an example screenshot of what you should produce:
+
+![5-Advanced](https://user-images.githubusercontent.com/118202453/230506515-0a7a0700-1164-46db-8cd9-333a4dba2029.png)
+
 
   - Perform the following tasks:
   - Plot the tectonic plates dataset on the map in addition to the earthquakes.
